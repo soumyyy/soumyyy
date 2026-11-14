@@ -1,6 +1,6 @@
 ### soumya maheshwari
 
-i like to build things, and ship some of them.
+I happen to build cool stuff now and then.
 
 **shipped**
 
@@ -8,6 +8,10 @@ i like to build things, and ship some of them.
 - [vital](https://github.com/soumyyy/vital) — a lean menu bar monitor for apple silicon macs.
 - [billinsight](https://soumyyy.github.io/billinsight/) — finds the bills and receipts in your photo library and turns them into spending records.
 - [glai](https://github.com/soumyyy/glai) — photo-based meal logging for my mom's diabetes. on testflight.
-- [vanshitakalra.com](https://vanshitakalra.com) · [bykritika.com](https://bykritika.com) — client sites.
+- [stock portfolio](https://soumya-stock-portfolio.vercel.app) — a real-time tracker for indian markets, several accounts in one view.
+
+**if you want them**
+
+- [agent-skills](https://github.com/soumyyy/agent-skills) — my agent skills for investigation, learning, writing, reviews and prs.
 
 [soumyamaheshwari.com](https://www.soumyamaheshwari.com) · [x](https://x.com/Soumymaheshwri)
